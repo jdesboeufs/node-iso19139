@@ -1,0 +1,31 @@
+{
+  "name": "iso19139",
+  "version": "0.0.0",
+  "description": "Mappings for ISO-19139",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdesboeufs/node-iso19139.git"
+  },
+  "keywords": [
+    "ISO 19139",
+    "ISO 19115",
+    "ISO 19119",
+    "converters",
+    "Inspire",
+    "GIS"
+  ],
+  "author": "Jérôme Desboeufs <jerome.desboeufs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdesboeufs/node-iso19139/issues"
+  },
+  "homepage": "https://github.com/jdesboeufs/node-iso19139",
+  "dependencies": {
+    "libxmljs": "^0.9.0",
+    "lodash": "^2.4.1"
+  }
+}
