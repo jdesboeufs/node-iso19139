@@ -1,6 +1,6 @@
 {
   "name": "iso19139",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mappings for ISO-19139",
   "main": "index.js",
   "scripts": {
