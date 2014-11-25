@@ -1,1 +1,4 @@
-module.exports = require('./lib/index');
+/*
+** Exports
+*/
+exports.mapper = require('./lib/mapper');
