@@ -1,4 +1,4 @@
 /*
 ** Exports
 */
-exports.mapper = require('./lib/mapper');
+exports.parse = require('./lib/parse');
